@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/carlos%20octavio/Documents/servicios%20web/practica5_a170125/celulares1.xsl"?>
+<celulares>
+<celular>
+<nombre>Xiaomi</nombre>
+<modelo>Poco F3</modelo>
+</celular>
+<celular>
+<nombre>Iphone</nombre>
+<modelo>13 Pro Max</modelo>
+</celular>
+<celular>
+<nombre>Samsung</nombre>
+<modelo>s22 Ultra</modelo>
+</celular>
+</celulares>
